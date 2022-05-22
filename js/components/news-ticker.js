@@ -3,16 +3,16 @@ Vue.component("news-ticker", {
     {
         return {
             messages: [
-                "modding.net",
-                "layer name moment",
-                "weird themes",
-                "hey, you could make a mod out of this",
-                "when the imp- oh wrong mod",
-                "basically there is a thi- (softcapped)",
-                "incremental thing i guess",
-                "omega layers but steam engine",
-                "mod.js: powering layers",
-                "i ran out of words on my hard drive :("
+                "Welcome To Curliest-Layers!",
+                "Can You Reach Layer 179UCE?",
+                "Those Themes Are Nice (and sometimes weird)",
+                "Credits To jwklong For Omega Engine And VeproGames For Omega Layers",
+                "It Is So Good",
+                "MJGTMKME123 Is Epic",
+                "I Bet You Can Restack At Layer 10",
+                "Omega Engine But Its Curliest Themed",
+                "Can We Go PAST Layer 179UCE?",
+                "Let The Game Begin!"
             ],
             currentMessage: "",
             messageIndex: -1
